@@ -1,0 +1,95 @@
+
+  @media screen and (min-width: 992px) {
+    
+   
+ 
+/* PHẦN BANNER + NAV-BAR*/
+    #banner {
+      display: block;
+      align-items: center;
+    }
+    #nav-bar {
+      display: flexbox;
+       }
+    .botron {
+      border-radius: 50%;
+      border: 4px solid pink;
+    }
+    
+    /* CHỨNG CHỈ*/
+    #chung-chi {
+      background-color: antiquewhite;
+    }
+    .chung-chi {
+       margin-bottom: 2em;
+      }
+      .cc-2, .chung-chi {
+        margin: 2em;
+       }
+       .cc-2 {
+        border-top: 2px solid sandybrown;
+        margin-right: 2em;}
+
+      
+    .chung-chi-2 {
+      border-left: 2px solid sandybrown;
+      margin-bottom: 2em;
+     
+      
+    }
+    .chung-chi-3 {
+      margin-top: 2em;
+    }
+         
+    }
+
+    
+      .kn, .ky, .ngon, .hoat, .so, .hoc {
+        margin-top: 2em;
+       margin-right: 2em;
+       }
+       #content #goal {
+        display: flex;
+        row-gap: 1em;
+        column-gap: 1em;
+        margin-top: 2em;
+        margin-bottom: 2em;
+       
+       }
+        /* PHẦN MỤC LỤC*/
+  /* .team {
+    background-color: bisque;
+   
+   }
+       #content {
+        margin-top: 2em;
+        margin-bottom: 2em;
+        margin-left: -2em;
+          }
+      
+       .goals {
+       background-color: antiquewhite;
+           } 
+     
+           #time-line {
+           margin-top: 2em;
+            margin-bottom: 2em;
+            background-color:  antiquewhite;
+           }
+
+           #muc-luc {
+           margin-left: 2em;
+            background-color: blue;
+            }
+            /*HẾT MỤC */
+
+            .du-an {
+              margin-right: 2em;
+            }
+            #chung-chi, #footer, #target, #nav-bar, #banner, #du-an {
+              margin: 2em;
+            }
+            
+
+
+

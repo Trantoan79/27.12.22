@@ -1,0 +1,49 @@
+@media screen and (max-width:767px) {
+  body {
+  background-color: PINK ;
+  }
+  #nav-bar {
+    border: none;
+  }
+.an {
+display: none;
+}
+  #chung-chi {
+    background-color: blanchedalmond;
+    align-items: center;
+  }
+  
+   .chung-chi-1 {
+    border-bottom: 2PX solid sandybrown;
+ 
+ 
+    
+  }
+ .chung-chi-2 {
+  margin-top: 2em;
+   border-bottom: 2PX solid sandybrown;
+
+
+   
+ }
+ .chung-chi-3 {
+margin-top: 2em;
+   border-bottom: 2PX solid sandybrown;
+    }
+    .an {
+      display: none;
+    }
+    #conten {
+     display: block;
+     gap: 2em;
+
+    }
+    
+   #time-line {
+   width: 767px;
+   margin-left: 6em;
+   margin-right: 6em;
+   
+   }
+  }
+ 

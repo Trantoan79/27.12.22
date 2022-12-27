@@ -1,0 +1,54 @@
+@media screen and (min-width: 768px) and (max-width: 991px){
+  body {
+    background-color: mediumpurple;
+  }
+  
+ 
+ #duan, #chung-chi, .goal {
+  display: flex;
+ justify-content: center;   
+}
+.info {
+margin-right: 2em;
+margin-top: 2em;
+}
+
+.thu {
+  display: flexbox;
+  column-gap: 0.5em;
+  row-gap: 0.5em;
+ justify-self: center;
+ }
+ .an {
+  display: none;
+  width: 10px;
+ }
+ .rong {
+    width: auto;
+ }
+ /* CHỨNG CHỈ*/
+ #chung-chi {
+  background-color: antiquewhite;
+}
+.chung-chi {
+   margin-bottom: 2em;
+  }
+  .cc-2, .chung-chi {
+    margin: 2em;
+   }
+   .cc-2 {
+    border-top: 2px solid sandybrown;
+    margin-right: 2em;}
+
+  
+.chung-chi-2 {
+  border-left: 2px solid sandybrown;
+  margin-bottom: 2em;
+ 
+  
+}
+.chung-chi-3 {
+  margin-top: 2em;
+}
+     
+}
